@@ -1,5 +1,7 @@
 // TODO: write code here
 
+const a = 12;
+
 // comment this to pass build
 const unusedVariable = 'variable';
 
