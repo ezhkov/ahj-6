@@ -1,9 +1,9 @@
 // TODO: write code here
 
-const a = 12;
+// const a = 12;
 
 // comment this to pass build
-const unusedVariable = 'variable';
+// const unusedVariable = 'variable';
 
 // for demonstration purpose only
 export default function demo(value) {
